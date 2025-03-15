@@ -36,3 +36,7 @@ The dashboards are designed to be interactive and provide a clear overview of sa
 
 * Microsoft Excel
 
+## Dashboard
+
+![Screenshot (495)](https://github.com/AnuragDeotale/Sales_Executive_Target_Analysis/blob/298ab6a22ff6b944b7d92e3aa78ef25a371f2541/Sales_Dashboard.png)
+
